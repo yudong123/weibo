@@ -33,4 +33,9 @@
     NSLog(@"你好吗");
 
 }
+-(void)smail{
+
+
+
+}
 @end
